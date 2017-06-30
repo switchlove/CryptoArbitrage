@@ -1,0 +1,14 @@
+{
+  "name": "CryptoArbitrage",
+  "version": "1.0.0",
+  "description": "A cryto-currency arbitrage checker.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "GNU",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
